@@ -24,4 +24,6 @@ _Paid for by DHS/FEMA through my volunteer work with the ITDRC_ </br>
    - **[Information Security](https://teex.org/class/awr173/)**
      - This course covered fundamental host-to-network concepts, serving as a valuable refresher on topics previously codified through my CCNA, CCNA Cybersecurity certifications, and cryptography coursework.
      - [See Certificate](https://github.com/zachncurry/TEEX-Technical-Cybersecurity-Certificate/blob/a36ec76a42dc1dba8cc61686d98b15d36e38567d/Zachary%20Curry%20FEMA%20Information%20Security%20Basics.pdf)
-   - **[Secure Software](https://teex.org/class/awr178/)**: In Progress _Anticipated 7/21/2026_
+   - **[Secure Software](https://teex.org/class/awr178/)**
+       - Learned various security frameworks from DoW, SANs, and Microsoft to develop, secure, and deploy software. In addition to protecting CIA assets utilizing AAA protocols and leveraging defense in depth best practces including firewalls, intrusion detection/prevention, and cyrptographic ciphers.
+       - [See Certificate](https://github.com/zachncurry/TEEX-Technical-Cybersecurity-Certificate/blob/39b94823d0dfce8f21d4970edc6e3a1ffb5823da/Zachary%20Curry%20FEMA%20Secure%20Software.pdf)
